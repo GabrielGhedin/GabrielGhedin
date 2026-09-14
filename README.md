@@ -15,7 +15,7 @@ Building hands-on security labs, infrastructure solutions and automation project
 </a>
 &nbsp;
 <a href="./assets/Gabriel-Ghedin-Resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-View%20PDF-24292F?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
+  <img src="https://img.shields.io/badge/Resume-View%20PDF-24292F?style=for-the-badge" alt="Resume">
 </a>
 &nbsp;
 <a href="mailto:ghedingabrielaurelio@gmail.com">
@@ -250,52 +250,42 @@ Risk-based vulnerability intelligence platform designed to collect, enrich and p
 
 ## 🔐 Security
 
-<p>
+<kbd>🛡️ Wazuh</kbd>
+<kbd>🎯 MITRE ATT&CK</kbd>
+<kbd>🔎 Sysmon</kbd>
+<kbd>🪟 Windows Security</kbd>
+<kbd>🐧 Linux</kbd>
 
-<img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white">
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=flat-square">
-<img src="https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Windows_Security-0078D4?style=flat-square&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-
-</p>
+<br>
 
 ## 💻 Development & Automation
 
-<p>
+<kbd>🐍 Python</kbd>
+<kbd>⚡ PowerShell</kbd>
+<kbd>🗄️ SQL</kbd>
+<kbd>🌐 HTML5</kbd>
+<kbd>🎨 CSS3</kbd>
+<kbd>🔀 Git</kbd>
+<kbd>🐙 GitHub</kbd>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-
-</p>
+<br>
 
 ## ⚙️ Infrastructure & DevSecOps
 
-<p>
+<kbd>🪟 Windows Server</kbd>
+<kbd>🏢 Active Directory</kbd>
+<kbd>☁️ Microsoft 365</kbd>
+<kbd>📁 SharePoint</kbd>
+<kbd>🐳 Docker</kbd>
+<kbd>⚙️ GitHub Actions</kbd>
 
-<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white">
-<img src="https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-
-</p>
+<br>
 
 ## 📊 Monitoring & Data
 
-<p>
-
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-
-</p>
+<kbd>📊 Grafana</kbd>
+<kbd>🔥 Prometheus</kbd>
+<kbd>🐘 PostgreSQL</kbd>
 
 ---
 
@@ -376,12 +366,13 @@ Approximately 10 years of English study.
 
 ### Additional Studies
 
-- SQL
-- HTML / CSS
-- Excel
-- Programming Logic
-- Infrastructure & Networking
-- Information Security
+<kbd>SQL</kbd>
+<kbd>HTML / CSS</kbd>
+<kbd>Excel</kbd>
+<kbd>Programming Logic</kbd>
+<kbd>Infrastructure</kbd>
+<kbd>Networking</kbd>
+<kbd>Information Security</kbd>
 
 ---
 
@@ -493,15 +484,23 @@ Identity Security
 
 I'm particularly interested in opportunities involving:
 
-<p align="center">
+<br>
 
-<img src="https://img.shields.io/badge/Cybersecurity_Analyst-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C">
-<img src="https://img.shields.io/badge/SOC_Analyst-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=00BFFF">
-<img src="https://img.shields.io/badge/Security_Engineer-0D1117?style=for-the-badge&logo=protonvpn&logoColor=6D4AFF">
-<img src="https://img.shields.io/badge/DevSecOps_Engineer-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF">
-<img src="https://img.shields.io/badge/Infrastructure_Engineer-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624">
+<div align="center">
 
-</p>
+<kbd>🛡️ CYBERSECURITY ANALYST</kbd>
+&nbsp;
+<kbd>🔎 SOC ANALYST</kbd>
+&nbsp;
+<kbd>🔐 SECURITY ENGINEER</kbd>
+&nbsp;
+<kbd>⚙️ DEVSECOPS ENGINEER</kbd>
+&nbsp;
+<kbd>🐧 INFRASTRUCTURE ENGINEER</kbd>
+
+</div>
+
+<br>
 
 ---
 
@@ -512,15 +511,19 @@ I'm always interested in discussing **Cybersecurity, Infrastructure, Automation,
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gabriel-ghedin-18a4b02b7">
-  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Ghedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Ghedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+&nbsp;
 
 <a href="mailto:ghedingabrielaurelio@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ghedingabrielaurelio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
+&nbsp;
+
 <a href="./assets/Gabriel-Ghedin-Resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-View%20PDF-24292F?style=for-the-badge&logo=readme&logoColor=white">
+  <img src="https://img.shields.io/badge/Resume-View%20PDF-24292F?style=for-the-badge" alt="Resume">
 </a>
 
 </div>
@@ -541,7 +544,7 @@ No confidential employer information, internal company configurations, credentia
 
 **Security • Infrastructure • Automation**
 
-<br>
+<br><br>
 
 📍 Brazil
 
