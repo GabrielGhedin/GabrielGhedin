@@ -34,7 +34,7 @@ My professional background includes hands-on experience with **technical support
 
 These experiences led me to develop a strong interest in **Cybersecurity**, especially in areas where security intersects with infrastructure, identity, automation and software engineering.
 
-I learn by building practical environments that reproduce real-world enterprise scenarios — from **SOC monitoring and Active Directory hardening** to **vulnerability management, Microsoft 365 automation and secure CI/CD pipelines**.
+I learn by building practical environments that reproduce real-world enterprise scenarios — from **security automation and vulnerability assessment** to **SOC monitoring, Active Directory hardening, vulnerability management and secure CI/CD pipelines**.
 
 - 🎓 **Computer Engineering** — Expected graduation: 2027
 - 💼 **IT Intern @ Eaton**
@@ -113,6 +113,41 @@ My long-term goal is to work where these three areas intersect.
 
 <td width="50%" valign="top">
 
+<h3>🔍 Python Vulnerability Scanner</h3>
+
+<b>Python • Networking • Security Automation • GitHub Actions</b>
+
+<br><br>
+
+Safety-first vulnerability assessment tool designed for authorized private laboratory environments.
+
+<b>Key areas:</b>
+
+<br>
+
+• Concurrent TCP port scanning<br>
+• Service identification<br>
+• Security exposure analysis<br>
+• HTTP security-header checks<br>
+• Risk scoring<br>
+• JSON & HTML reporting<br>
+• Automated testing and CI
+
+<br><br>
+
+<a href="https://github.com/GabrielGhedin/python-vulnerability-scanner">
+  <b>View Project →</b>
+</a>
+
+<br><br>
+
+<b>Release:</b> v1.0.0<br>
+<b>Status:</b> ✅ Completed
+
+</td>
+
+<td width="50%" valign="top">
+
 <h3>🛡️ SOC Home Lab</h3>
 
 <b>Wazuh • Sysmon • Windows • Linux • MITRE ATT&CK</b>
@@ -137,6 +172,10 @@ Enterprise-inspired Security Operations Center laboratory designed for endpoint 
 <b>Status:</b> 🚧 Building
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -165,10 +204,6 @@ Secure software delivery pipeline integrating automated security controls throug
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 <h3>🏢 Active Directory Security Lab</h3>
@@ -196,36 +231,35 @@ Enterprise Windows laboratory focused on identity management, security policies,
 
 </td>
 
-<td width="50%" valign="top">
-
-<h3>🚨 Vulnerability Intelligence</h3>
-
-<b>Python • FastAPI • PostgreSQL • CVE • EPSS • CISA KEV</b>
-
-<br><br>
-
-Risk-based vulnerability intelligence platform designed to collect, enrich and prioritize security vulnerabilities.
-
-<b>Key areas:</b>
-
-<br>
-
-• CVE intelligence<br>
-• CVSS scoring<br>
-• EPSS probability<br>
-• CISA KEV<br>
-• Risk prioritization<br>
-• Security dashboards
-
-<br><br>
-
-<b>Status:</b> 📋 Planned
-
-</td>
-
 </tr>
 
 </table>
+
+---
+
+## ✅ Completed Project Highlights
+
+### 🔍 Python Vulnerability Scanner — v1.0.0
+
+My first completed cybersecurity portfolio project focuses on **safe vulnerability assessment and security automation**.
+
+The project includes:
+
+- Private-lab target validation
+- Concurrent TCP scanning
+- Basic service identification
+- HTTP security analysis
+- Risk scoring
+- JSON and HTML reporting
+- Automated tests
+- CI using GitHub Actions
+- Automated validation across Python **3.12, 3.13 and 3.14**
+- Versioned release management
+- Structured project roadmap using GitHub Issues
+
+<a href="https://github.com/GabrielGhedin/python-vulnerability-scanner">
+  <b>Explore the repository →</b>
+</a>
 
 ---
 
@@ -233,11 +267,11 @@ Risk-based vulnerability intelligence platform designed to collect, enrich and p
 
 | Project | Main Focus | Level | Status |
 |---|---|---|---|
+| 🔍 Python Vulnerability Scanner | Security Automation | Intermediate | ✅ Completed |
 | 🛡️ SOC Home Lab | SIEM, Detection Engineering, Incident Analysis | Advanced | 🚧 Building |
 | 🔒 DevSecOps Secure Pipeline | CI/CD Security, AppSec, Supply Chain | Advanced | 📋 Planned |
 | 🏢 Active Directory Hardening | IAM, Windows Security, GPO | Advanced | 📋 Planned |
 | 🚨 Vulnerability Intelligence Dashboard | Vulnerability Management | Intermediate | 📋 Planned |
-| 🔍 Python Vulnerability Scanner | Security Automation | Intermediate | 📋 Planned |
 | ☁️ Microsoft 365 Security Automation | PowerShell, Entra ID, M365 | Intermediate | 📋 Planned |
 | 📡 Network Security Monitor | Monitoring, Networking, Observability | Intermediate | 📋 Planned |
 | 💻 IT Asset Security Platform | Asset Management, Risk | Advanced | 📋 Planned |
@@ -255,6 +289,7 @@ Risk-based vulnerability intelligence platform designed to collect, enrich and p
 <kbd>🔎 Sysmon</kbd>
 <kbd>🪟 Windows Security</kbd>
 <kbd>🐧 Linux</kbd>
+<kbd>🔍 Vulnerability Assessment</kbd>
 
 <br>
 
@@ -286,6 +321,17 @@ Risk-based vulnerability intelligence platform designed to collect, enrich and p
 <kbd>📊 Grafana</kbd>
 <kbd>🔥 Prometheus</kbd>
 <kbd>🐘 PostgreSQL</kbd>
+
+<br>
+
+## 🧪 Engineering Practices
+
+<kbd>Automated Testing</kbd>
+<kbd>CI/CD</kbd>
+<kbd>Git Flow</kbd>
+<kbd>Semantic Versioning</kbd>
+<kbd>Technical Documentation</kbd>
+<kbd>Security by Design</kbd>
 
 ---
 
@@ -409,7 +455,7 @@ Security Monitoring
 
 <h3>⚙️ Engineering</h3>
 
-Python Automation<br>
+Python Security Automation<br>
 PowerShell<br>
 Docker<br>
 GitHub Actions<br>
@@ -471,6 +517,7 @@ Identity Security
 
 - Build practical **Blue Team and SOC** experience
 - Develop cybersecurity automation tools
+- Expand the **Python Vulnerability Scanner** with vulnerability intelligence
 - Improve **Windows and Active Directory security** knowledge
 - Develop vulnerability management experience
 - Build production-style **DevSecOps pipelines**
